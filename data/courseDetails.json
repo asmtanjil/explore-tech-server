@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "categoryId": "01",
+    "rating": {
+      "number": 4.5
+    },
+    "views": 675,
+    "title": "Learn HTML From Explore Tech",
+    "author": {
+      "name": "Explore Tech",
+      "published_date": "20-10-2022",
+      "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
+    },
+    "image": "https://i.ibb.co/nQ74Xbh/html.png",
+    "details": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it"
+  },
+  {
+    "id": "2",
+    "categoryId": "02",
+    "rating": {
+      "number": 4.5
+    },
+    "views": 675,
+    "title": "Learn CSS From Explore Tech",
+    "author": {
+      "name": "Explore Tech",
+      "published_date": "20-10-2022",
+      "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
+    },
+    "image": "https://i.ibb.co/MG1mhDK/css.png",
+    "details": "If you have ever wanted to build and design stylish, responsive websites, this introductory CSS training course can help you get started learning CSS for web design and development. Designed for beginners, no prior experience with CSS is required to get the most out of this online course."
+  },
+  {
+    "id": "3",
+    "categoryId": "03",
+    "rating": {
+      "number": 4.5
+    },
+    "views": 675,
+    "title": "Learn Plain JavaScript From Explore Tech",
+    "author": {
+      "name": "Explore Tech",
+      "published_date": "20-10-2022",
+      "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
+    },
+    "image": "https://i.ibb.co/t4nH3J7/js-file.png",
+    "details": "VanillaJS is a name to refer to using plain JavaScript without any additional libraries like jQuery back in the days. People use it as a joke to remind other developers that many things can be done nowadays without the need for additional JavaScript libraries."
+  },
+  {
+    "id": "4",
+    "categoryId": "04",
+    "rating": {
+      "number": 4.5
+    },
+    "views": 675,
+    "title": "Learn ReactJS From Explore Tech",
+    "author": {
+      "name": "Explore Tech",
+      "published_date": "20-10-2022",
+      "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
+    },
+    "image": "https://i.ibb.co/nRnmwzR/react.jpg",
+    "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
+  },
+  {
+    "id": "5",
+    "categoryId": "05",
+    "rating": {
+      "number": 4.5
+    },
+    "views": 675,
+    "title": "Learn NodeJS From Explore Tech",
+    "author": {
+      "name": "Explore Tech",
+      "published_date": "20-10-2022",
+      "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
+    },
+    "image": "https://i.ibb.co/PF8s1mH/node.png",
+    "details": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind."
+  },
+  {
+    "id": "6",
+    "categoryId": "06",
+    "rating": {
+      "number": 4.5
+    },
+    "views": 675,
+    "title": "Learn MongoDB From Explore Tech",
+    "author": {
+      "name": "Explore Tech",
+      "published_date": "20-10-2022",
+      "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
+    },
+    "image": "https://i.ibb.co/WzrCjMT/mdb.jpg",
+    "details": "MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies"
+  }
+]
