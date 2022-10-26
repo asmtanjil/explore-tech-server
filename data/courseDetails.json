@@ -13,7 +13,8 @@
       "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
     },
     "image": "https://i.ibb.co/nQ74Xbh/html.png",
-    "details": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it"
+    "details": "HTML stands for HyperText Markup Language, which can be a confusing term for many beginners. The best way to explain HTML is to examine the meaning of each word. HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it",
+    "price": "$99"
   },
   {
     "id": "2",
@@ -29,7 +30,8 @@
       "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
     },
     "image": "https://i.ibb.co/MG1mhDK/css.png",
-    "details": "If you have ever wanted to build and design stylish, responsive websites, this introductory CSS training course can help you get started learning CSS for web design and development. Designed for beginners, no prior experience with CSS is required to get the most out of this online course."
+    "details": "If you have ever wanted to build and design stylish, responsive websites, this introductory CSS training course can help you get started learning CSS for web design and development. Designed for beginners, no prior experience with CSS is required to get the most out of this online course.",
+    "price": "$99"
   },
   {
     "id": "3",
@@ -45,7 +47,8 @@
       "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
     },
     "image": "https://i.ibb.co/t4nH3J7/js-file.png",
-    "details": "VanillaJS is a name to refer to using plain JavaScript without any additional libraries like jQuery back in the days. People use it as a joke to remind other developers that many things can be done nowadays without the need for additional JavaScript libraries."
+    "details": "VanillaJS is a name to refer to using plain JavaScript without any additional libraries like jQuery back in the days. People use it as a joke to remind other developers that many things can be done nowadays without the need for additional JavaScript libraries.",
+    "price": "$149"
   },
   {
     "id": "4",
@@ -60,8 +63,9 @@
       "published_date": "20-10-2022",
       "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
     },
-    "image": "https://i.ibb.co/nRnmwzR/react.jpg",
-    "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
+    "image": "https://i.ibb.co/0XdJmTB/reactJS.png",
+    "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+    "price": "$169"
   },
   {
     "id": "5",
@@ -77,7 +81,8 @@
       "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
     },
     "image": "https://i.ibb.co/PF8s1mH/node.png",
-    "details": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind."
+    "details": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind.",
+    "price": "$149"
   },
   {
     "id": "6",
@@ -93,6 +98,7 @@
       "img": "https://i.ibb.co/vqRJJzZ/rsz-35-01-01-02.jpg"
     },
     "image": "https://i.ibb.co/WzrCjMT/mdb.jpg",
-    "details": "MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies"
+    "details": "MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies",
+    "price": "$199"
   }
 ]
